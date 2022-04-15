@@ -1,0 +1,15 @@
+# Ignore:
+node_modules
+
+# Ignore build output
+dist
+build
+lib
+
+# Ignore coverage
+coverage
+
+package.json
+package-lock.json
+yarn.lock
+.vscode/*
